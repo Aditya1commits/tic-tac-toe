@@ -11,8 +11,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ## 🖼 Screenshot
 
-![Tic Tac Toe Screenshot](screenshort.png)  
-*(Replace `screenshort.png` with your actual screenshot filename if different)*
+![Tic Tac Toe Screenshot](screenshort.png) 
 
 ## 📂 Folder Structure
 
